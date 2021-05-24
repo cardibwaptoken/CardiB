@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://cardibwaptoken.com/wp-content/uploads/2021/05/photo_2021-05-17_22-56-41.jpg" width="64" />
+  <img src="https://cardibwaptoken.com/wp-content/uploads/2021/05/wap-200x200-1.png" width="64" />
   <br/>
   <h3 align="center">Cardi B</h3>
 </p>
